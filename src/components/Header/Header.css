@@ -37,16 +37,29 @@ header > small{
     margin-top: .8rem;
 }
 
+.error{
+    display: grid;
+}
+
 .user-mail{
-    border: 1px solid var(--PaleBlue);
+    border: 2px solid var(--PaleBlue);
     border-radius: 20px;
     padding: .7rem;
     width: 20rem;
     font-size: 12px;
+    background: transparent;
 }
 
 .user-mail::placeholder{
     color: var(--PaleBlue);
+}
+
+.error-message{
+    font-size: 12px;
+    color: var(--LightRed);
+    margin-left: 1rem;
+    text-align: left;
+    display: none;
 }
 
 .notify-btn{
@@ -59,8 +72,29 @@ header > small{
     padding: .7rem;
     width: 9rem;
     cursor: pointer;
+    margin-bottom: auto;
 }
 
 .notify-btn:hover{
     background: var(--Blue-varient);
 }
+
+.notify-btn:active{
+    padding: .65rem;
+}
+
+/* toggle for error */
+.error-input .user-mail{
+    border: 1px solid var(--LightRed);
+    color: var(--LightRed);
+}
+
+.error-input .user-mail::placeholder{
+    color: var(--LightRed);
+}
+
+.error-input .error-message{
+    display: block;
+}
+
+/*  */

@@ -1,0 +1,66 @@
+header{
+    margin-top: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: .4rem;
+}
+
+header > img{
+    display: flex;
+    align-self: center;
+    max-width: 4%;
+}
+
+header > h1{
+    margin-top: 1rem;
+    color: var(--Gray);
+    font-weight: 300;
+    font-size: 35px;
+}
+
+.lnch{
+    color: var(--VeryDarkBlue);
+    font-weight: 700;
+}
+
+header > small{
+    color: var(--Gray);
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.mail-visitor{
+    display: flex;
+    gap: .5rem;
+    align-items: center;
+    justify-content: center;
+    margin-top: .8rem;
+}
+
+.user-mail{
+    border: 1px solid var(--PaleBlue);
+    border-radius: 20px;
+    padding: .7rem;
+    width: 20rem;
+    font-size: 12px;
+}
+
+.user-mail::placeholder{
+    color: var(--PaleBlue);
+}
+
+.notify-btn{
+    background: var(--Blue);
+    color: white;
+    box-shadow: 1px 3px 5px var(--PaleBlue);
+    border-radius: 20px;
+    text-align: center;
+    border: none;
+    padding: .7rem;
+    width: 9rem;
+    cursor: pointer;
+}
+
+.notify-btn:hover{
+    background: var(--Blue-varient);
+}

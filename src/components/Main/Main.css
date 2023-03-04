@@ -1,3 +1,16 @@
+.main{
+    display: flex;
+    justify-self: center;
+    width: 500px;
+}
+
 .main > img{
-    max-width: 38%;
+    max-width: 100%;
+}
+
+/* Adding mobile responsiveness */
+@media screen and (max-width: 37.5rem){
+    .main{
+        width: 310px;
+    }
 }

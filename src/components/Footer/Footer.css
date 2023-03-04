@@ -2,7 +2,7 @@ footer{
     margin-top: auto;
     display: flex;
     flex-direction: column;
-    gap: 1.2rem;
+    gap: 1rem;
 }
 
 .socials{
@@ -33,3 +33,4 @@ footer{
 .attribution a { 
     color: var(--Blue); 
 }
+

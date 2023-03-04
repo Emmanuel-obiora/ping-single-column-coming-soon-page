@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/Emmanuel-obiora/ping-single-column-coming-soon-page)
-- Live Site URL: [GitHub Pages](https://emmanuel-obiora.github.io/ping-single-column-coming-soon-page)
+- Live Site URL: [Netlify.app](https://ping-single-column-page.netlify.app/)
 
 ## My process
 

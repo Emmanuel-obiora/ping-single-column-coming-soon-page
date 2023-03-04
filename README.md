@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/Emmanuel-obiora/ping-single-column-coming-soon-page)
-- Live Site URL: [Netlify.app](https://ping-single-column-page.netlify.app/)
+- Solution URL: [GitHub](https://github.com/Emmanuel-obiora/single-ping-page)
+- Live Site URL: [Netlify.app](https://emmanuel-obiora.github.io/single-ping-page)
 
 ## My process
 

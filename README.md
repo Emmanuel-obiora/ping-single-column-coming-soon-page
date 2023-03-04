@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/Emmanuel-obiora/single-ping-page)
-- Live Site URL: [Netlify.app](https://emmanuel-obiora.github.io/single-ping-page)
+- Live Site URL: [GitHub Pages](https://emmanuel-obiora.github.io/single-ping-page)
 
 ## My process
 

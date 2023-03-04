@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ping-single-column-coming-soon-page/static/css/main.f89e4be5.css",
+    "main.js": "/ping-single-column-coming-soon-page/static/js/main.b2441872.js",
+    "static/media/illustration-dashboard.png": "/ping-single-column-coming-soon-page/static/media/illustration-dashboard.f9aaf3db81c10cfaff45.png",
+    "static/media/logo.svg": "/ping-single-column-coming-soon-page/static/media/logo.7e09371f05c7e00fddccee34a9deac87.svg",
+    "index.html": "/ping-single-column-coming-soon-page/index.html",
+    "main.f89e4be5.css.map": "/ping-single-column-coming-soon-page/static/css/main.f89e4be5.css.map",
+    "main.b2441872.js.map": "/ping-single-column-coming-soon-page/static/js/main.b2441872.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f89e4be5.css",
+    "static/js/main.b2441872.js"
+  ]
+}
